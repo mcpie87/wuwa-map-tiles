@@ -501,8 +501,8 @@
       "output_hash": "0fb13d92faddd18a"
     },
     "RegionalGameplayBg_UI": {
-      "hash": "0fff2c235df92506",
-      "output_hash": "023267681c46cb7d"
+      "hash": "8d1ad0ec124f28bf",
+      "output_hash": "35a17aff8f681f7f"
     },
     "YHSYCTiles_UI": {
       "hash": "2d02ab025088870c",
@@ -551,6 +551,42 @@
     "MapTiles_HD_UI_-2": {
       "hash": "da3b15bff2228744",
       "output_hash": "89da4ab627e25132"
+    },
+    "FogTiles_912_UI_p1": {
+      "hash": "d2e54c5eee44aff0",
+      "output_hash": "826efb6ffd990841"
+    },
+    "FogTiles_912_UI_p2": {
+      "hash": "52f69d96648eac6e",
+      "output_hash": "890bc1949f4aedaf"
+    },
+    "MSTLTiles_UI": {
+      "hash": "36e877da156a3aaa",
+      "output_hash": "ec10002782975aa1"
+    },
+    "MSTLTiles_DTQ_LAYER1_UI": {
+      "hash": "14f9d6d318483162",
+      "output_hash": "d59fc40612aa51b8"
+    },
+    "MSTLTiles_YXY_LAYER1_UI": {
+      "hash": "e3332f614ba29ee8",
+      "output_hash": "92469625bcac9cde"
+    },
+    "MSTLTiles_YXY_LAYER2_UI": {
+      "hash": "242c8389a8cdf4c6",
+      "output_hash": "fd1bf69292a4877b"
+    },
+    "MSTLTiles_YXY_LAYER3_UI": {
+      "hash": "ccebc0881b3ce0aa",
+      "output_hash": "a08a12a046ff310d"
+    },
+    "MSTLTiles_JXY_LAYER1_UI": {
+      "hash": "c84c9f8b24d5af61",
+      "output_hash": "72b6cc1e101f9ab7"
+    },
+    "MSTLTiles_QXY_LAYER1_UI": {
+      "hash": "2f4572b5ee914b98",
+      "output_hash": "3eb58dc1cc937857"
     }
   },
   "offset_x": 12,
